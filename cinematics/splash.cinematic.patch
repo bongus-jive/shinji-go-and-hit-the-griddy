@@ -1,0 +1,22 @@
+[{
+  "op" : "add",
+  "path" : "/panels/-",
+  "value" : {
+    "drawables" : [{"image" : "/cinematics/shinji_griddy.png:<frame>"}],
+    "animationFrames" : 10,
+    "startTime" : 0,
+    "keyframes" : [
+      {
+        "timecode" : 0,
+        "frame" : 0,
+        "alpha" : 1,
+        "zoom" : 1,
+        "position" : [690, 420]
+      },
+      {
+        "timecode" : 10000,
+        "frame" : 256410
+      }
+    ]
+  }
+}]
