@@ -2,6 +2,7 @@
   "op" : "add",
   "path" : "/panels/-",
   "value" : {
+    "griddy" : true,
     "drawables" : [{"image" : "/cinematics/shinji_griddy.png:<frame>"}],
     "animationFrames" : 10,
     "startTime" : 0,
