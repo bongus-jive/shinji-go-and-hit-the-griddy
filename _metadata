@@ -1,9 +1,10 @@
 {
-  "version" : "1.0.1",
   "author" : "patman",
-  "description" : "adds shinji to the loading screen jit the griddy\nevnahlion\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/wXjYMqP.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]\n[url=https://link.clashofclans.com/en?action=OpenClanProfile&tag=2QCU2R9GP][img]https://i.imgur.com/xVfcRRH.gif[/img][/url]\n\nthe star bound discord\n[img]https://cdn.discordapp.com/emojis/1006617945008521318.gif[/img]",
-  "name" : "shinji_griddy",
+  "description" : "adds shinji to the loading screen jit the griddy\nevnahlion",
   "friendlyName" : "shinji go and hit the griddy",
+  "link" : "steam://url/CommunityFilePage/2846656660",
+  "name" : "shinji_griddy",
   "steamContentId" : "2846656660",
-  "link" : "steam://url/CommunityFilePage/2846656660"
+  "steamDescription" : "adds shinji to the loading screen jit the griddy\nevnahlion\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/shinji-go-and-hit-the-griddy\n\nthe star bound discord\n[img]https://cdn.discordapp.com/emojis/1006617945008521318.gif[/img]",
+  "version" : "1.0.2"
 }
