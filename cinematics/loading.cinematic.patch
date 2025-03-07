@@ -1,23 +1,26 @@
-[{
-  "op" : "add",
-  "path" : "/panels/-",
-  "value" : {
-    "griddy" : true,
-    "drawables" : [{"image" : "/cinematics/shinji_griddy.png:<frame>"}],
-    "animationFrames" : 10,
-    "startTime" : 0,
-    "keyframes" : [
-      {
-        "timecode" : 0,
-        "frame" : 0,
-        "alpha" : 1,
-        "zoom" : 1,
-        "position" : [690, 420]
-      },
-      {
-        "timecode" : 10000,
-        "frame" : 256410
-      }
-    ]
+[
+  {
+    "op": "add",
+    "path": "/panels/-",
+    "value": {
+      "griddy": true,
+      "drawables": [ { "image": "/cinematics/shinji_griddy.png:<frame>" } ],
+      "animationFrames": 10,
+      "startTime": 0,
+      "loopTime": 0.39,
+      "keyframes": [
+        {
+          "timecode": 0,
+          "frame": 0,
+          "alpha": 1,
+          "zoom": 1,
+          "position": [ 690, 420 ]
+        },
+        {
+          "timecode": 0.39,
+          "frame": 10
+        }
+      ]
+    }
   }
-}]
+]
